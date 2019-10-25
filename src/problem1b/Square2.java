@@ -17,6 +17,4 @@ public class Square2 {
 	public void setHeight(double height) {
 		this.height = height;
 	}
-	
-
 }
